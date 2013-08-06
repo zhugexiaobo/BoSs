@@ -1,0 +1,8 @@
+---
+title: 404
+layout: page
+---
+
+这页冇东西哟 ;D
+
+回[首页](/index.html)再说 :)
