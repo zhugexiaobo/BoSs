@@ -4,5 +4,5 @@ layout: page
 ---
 
   
-by 晓波  
-for 阿思
+By 晓波  U･ω･U  
+For 阿思  (=\^･\^=)  
