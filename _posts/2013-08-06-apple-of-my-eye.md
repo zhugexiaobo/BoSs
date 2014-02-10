@@ -1,8 +1,7 @@
 ---
 title: Apple of my eye
 layout: post
-tags:
-  - photography
+tags: si photography
 ---
 
 You are the apple of my eye

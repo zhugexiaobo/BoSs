@@ -1,8 +1,7 @@
 ---
 title: 七夕
 layout: post
-tags:
-  - si
+tags: si
 ---
 
   阿思，这个小站为你而建，很高兴你能喜欢，嘿嘿。  
