@@ -3,7 +3,7 @@
 *
 * @author linghua.zhang@me.com
 * @link http://lhzhang.com/
-* @update 2013-04-02
+* @update 2013-08-16
 *
 * |/ | (~ (~
 * |\.|._)._)
@@ -15,8 +15,8 @@
 $page-width: 680;
 $page-width-round: 700;
 
-@mixin page {
-    width: #{$page-width}px;
+@mixin page($width: $page-width) {
+    width: #{$width}px;
     margin: 0 auto;
 }
 
@@ -58,6 +58,8 @@ ol, ul {
     margin: 2em 0 1em 0;
 }
 
+code { background-color: #f8f8f8; padding: 2px 5px; border: 1px dashed #e0e0e0; }
+
 #header {
     @include page;
 
@@ -80,7 +82,7 @@ ol, ul {
 }
 
 nav {
-    @include page;
+    @include page($nav-width);
 
     padding: 1px 0;
     text-align: right;

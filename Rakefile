@@ -10,13 +10,18 @@ task :post, [:title] do |t, args|
 end
 
 desc 'Build site with Jekyll'
-task :generate => :clean do
+task :generate => [:clean, :scss] do
   `jekyll`
 end
 
+desc 'Generate css'
+task :scss do
+  `scss media/css/style.scss media/css/style.css`
+end
+
 desc 'Start server'
-task :server => :clean do
-  `jekyll --server`
+task :server => [:clean, :scss] do
+  `jekyll serve -t`
 end
 
 desc 'Deploy with rake "depoly[comment]"'
@@ -35,7 +40,7 @@ end
 
 def new_post(title)
   time = Time.now
-  filename = "_posts/" + time.strftime("%Y-%m-%d-") + title + '.markdown'
+  filename = "_posts/" + time.strftime("%Y-%m-%d-") + title + '.md'
   if File.exists? filename then
     puts "Post already exists: #{filename}"
     return
@@ -47,8 +52,7 @@ def new_post(title)
 title: #{title}
 layout: post
 guid: urn:uuid:#{uuid}
-tags:
-  - 
+tags: 
 ---
 
 

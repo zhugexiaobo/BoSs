@@ -1,15 +1,18 @@
+@charset "UTF-8";
 @import url(http://fonts.googleapis.com/css?family=Overlock);
 @import url(http://fonts.googleapis.com/css?family=Coda);
+@import url(http://fonts.googleapis.com/css?family=Lekton);
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
 /*------------------------------------
-* sext-v
-*
-* @author linghua.zhang@me.com
-* @link http://lhzhang.com/
-* @update 2013-04-02
-*
-* |/ | (~ (~
-* |\.|._)._)
-* --------------------------------- */
+ * sext-vi
+ *
+ * @author linghua.zhang@me.com
+ * @link http://lhzhang.com/
+ * @update 2013-11-11
+ *
+ * |/ | (~ (~
+ * |\.|._)._)
+ * --------------------------------- */
 a {
   color: #3399cc; }
   a:hover {
@@ -23,7 +26,7 @@ body {
   font-size: 14px;
   font-family: "Overlock", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   color: #555555;
-  background-image: url("/media/css/bg.png"); }
+  background-color: #f9f9f9; }
 
 a {
   text-decoration: none;
@@ -38,6 +41,11 @@ ol, ul {
 
 #main {
   margin: 2em 0 1em 0; }
+
+code {
+  background-color: #f8f8f8;
+  padding: 2px 5px;
+  border: 1px dashed #e0e0e0; }
 
 #header {
   width: 680px;
