@@ -3,35 +3,94 @@ title: Opensource Libraries
 layout: page
 ---
 
-**Objective-C**
+- [AFNetworking](https://github.com/AFNetworking/AFNetworking): Network Library
+- [AKTabBarController](https://github.com/alikaragoz/AKTabBarController): Adaptative and customizable tab bar for iOS
+- [ALSystemUtilities](https://github.com/andrealufino/ALSystemUtilities): A list of 78 methods to get system information
+- [AllAroundPullView](https://github.com/r-plus/AllAroundPullView): Pull-To-Refresh for 4 direction
+- [ASIHttpRequest](https://github.com/pokeb/asi-http-request): CFNetwork API Wrapper
+- [AwesomeMenu](https://github.com/levey/AwesomeMenu): Path 2.0 menu button
+- [Base64](https://github.com/nicklockwood/Base64): Base64 encode & decode
+- [BeeFramework](https://github.com/gavinkwoe/BeeFramework): Create apps using Objective-C and XML/CSS
+- [BlocksKit](https://github.com/pandamonia/BlocksKit): Blocks categories
+- [Chameleon](https://github.com/BigZaphod/Chameleon): Port of Apple's UIKit for iOS
+- [CMPopTipView](https://github.com/chrismiles/CMPopTipView): Pop up an animated "bubble"
+- [CMUnistrokeGestureRecognizer](https://github.com/chrismiles/CMUnistrokeGestureRecognizer): A port of the $1 Unistroke Recognizer (aka Dollar Gesture Recognizer) to iOS as a UIGestureRecognizer
+- [CXAlertView](https://github.com/ChrisXu1221/CXAlertView): Custom alert-view
+- [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket): Asynchronous socket networking library for Mac and iOS
+- [CocoaLumberjack](https://github.com/robbiehanson/CocoaLumberjack): Log Framework
+- [DMCustomTransitions](https://github.com/Dimillian/DMCustomTransitions): Some custom transitions for iOS 7
+- [DTCoreText](https://github.com/Cocoanetics/DTCoreText): Using HTML code with CoreText
+- [EGOTableViewPullRefresh](https://github.com/enormego/EGOTableViewPullRefresh): Pull down to refresh
+- [FlatUIKit](https://github.com/Grouper/FlatUIKit): Awesome flat UI components
+- [JMWhenTapped](https://github.com/jakemarsh/JMWhenTapped): Easily assign touch down, touch up, and tapped actions to UIViews using blocks
+- [KKNavigationController](https://github.com/Coneboy-k/KKNavigationController): Parallax NavigationController
+- [MBProgressHUD](https://github.com/jdg/MBProgressHUD): HUD Indicator View
+- [MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell): UITableViewCell subclass that implements a swippable content to trigger actions
+- [MHVerticalTabBarController](https://github.com/mwhuss/MHVerticalTabBarController): Custom vertical tab bar controller
+- [MKNetworkKit](https://github.com/MugunthKumar/MKNetworkKit): 
+- [MTStatusBarOverlay](https://github.com/myell0w/MTStatusBarOverlay): Status bar overlay
+- [MZFormSheetController](https://github.com/m1entus/MZFormSheetController): An alternative to the native iOS UIModalPresentationFormSheet
+- [MultiLayerNavigation](https://github.com/vinqon/MultiLayerNavigation): Drag to go back
+- [NSDate-Extensions](https://github.com/erica/NSDate-Extensions): Practical real-world dates
+- [Objective-C-RegEx-Categories](https://github.com/bendytree/Objective-C-RegEx-Categories): NSRegularExpression categories
+- [PPRevealSideViewController](https://github.com/ipup/PPRevealSideViewController): Push views on side
+- [PullToRefresh](https://github.com/leah/PullToRefresh): Simple pull-to-refresh
+- [PulsingHalo](https://github.com/shu223/PulsingHalo): Creating A Pulsing Animation
+- [QuickDialog](https://github.com/escoz/QuickDialog): Quick and simple dialogs
+- [RNThemeManager](https://github.com/rnystrom/RNThemeManager): Easily manage themes
+- [Reachability](https://github.com/tonymillion/Reachability): Drop in replacement for Apple Reachability
+- [Rebel](https://github.com/github/Rebel): Cocoa framework for improving AppKit
+- [RestKit](https://github.com/RestKit/RestKit): RESTful web services clients
+- [SDWebImage](https://github.com/rs/SDWebImage): Asynchronous image downloader with cache support with an UIImageView category
+- [SFSCollectionMenu](https://github.com/SixFiveSoftware/SFSCollectionMenu): menu control for iOS utilizing UICollectionView layout
+- [SGNavigationProgress](https://github.com/sgryschuk/SGNavigationProgress): Safari-like progress view on a UINavigationBar
+- [STTweetLabel](https://github.com/SebastienThiebaud/STTweetLabel): A custom UILabel for iOS with certain words tappable like Twitter (#Hashtag, @Handle and links)
+- [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh): Pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code
+- [SVWebViewController](https://github.com/samvermette/SVWebViewController): Drop-in inline browser
+- [ShareKit](https://github.com/ShareKit/ShareKit): Drop in sharing features
+- [SphereView](https://github.com/heroims/SphereView): 
+- [TMCache](https://github.com/tumblr/TMCache): Fast parallel object cache
+- [TTCounterLabel](https://github.com/TriggerTrap/TTCounterLabel): Custom UILabel that acts as a time counter
+- [TTTAttributedLabel](https://github.com/mattt/TTTAttributedLabel): UILabel that supports attributes, data detectors, links, and more
+- [TWSReleaseNotesView](https://github.com/iGriever/TWSReleaseNotesView): Show in-app release notes
+- [UIKitAnimationPro](https://github.com/demon1105/UIKitAnimationPro): Create an animation sequence
+- [UIView-Utils](https://github.com/demon1105/UIView-Utils): 
+- [UIView-from-Xib](https://github.com/eppz/UIView-from-Xib): Simplest way to load UIView from Xib
+- [YIFullScreenScroll](https://github.com/inamiy/YIFullScreenScroll): Scroll-to-fullscreen
+- [appirater](https://github.com/arashpayan/appirater): Reminds users to review the app
+- [cocos2d-iphone](https://github.com/cocos2d/cocos2d-iphone): 
+- [iOS-boilerplate](https://github.com/gimenete/iOS-boilerplate): Template with lots of common tasks solved
+- [iPhoneWebServicesClient](https://github.com/akosma/iPhoneWebServicesClient): 
+- [ios-fontawesome](https://github.com/alexdrone/ios-fontawesome): NSString+FontAwesome
+- [jrswizzle](https://github.com/rentzsch/jrswizzle): one-stop-shop for all your method swizzling needs
+- [sstoolkit](https://github.com/soffes/sstoolkit): A collection of well-documented iOS classes
+- [ssziparchive](https://github.com/soffes/ssziparchive): Zipping and unzipping files
+- [three20](https://github.com/facebook/three20): 
+- [uicolor-utilities](https://github.com/erica/uicolor-utilities): 
+- [weibo_ios_sdk_sso-oauth](https://github.com/mobileresearch/weibo_ios_sdk_sso-oauth): 
 
-[AFNetworking](https://github.com/AFNetworking/AFNetworking): Network Library  
-[AKTabBarController](https://github.com/alikaragoz/AKTabBarController): Adaptative and customizable tab bar for iOS  
-[ASIHttpRequest](http://allseeing-i.com/ASIHTTPRequest): CFNetwork API Wrapper  
-[BlocksKit](https://github.com/pandamonia/BlocksKit): Blocks categories  
-[Chameleon](https://github.com/BigZaphod/Chameleon): Port of Apple's UIKit for iOS  
-[CMUnistrokeGestureRecognizer](https://github.com/chrismiles/CMUnistrokeGestureRecognizer): A port of the $1 Unistroke Recognizer (aka Dollar Gesture Recognizer) to iOS as a UIGestureRecognizer  
-[CocoaLumberjack](https://github.com/robbiehanson/CocoaLumberjack): Log Framework  
-[Godzippa](https://github.com/mattt/Godzippa): GZip Compression / Decompression Category for NSData  
-[HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl): A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents.  
-[HockeyKit](https://github.com/TheRealKerni/HockeyKit): Ad-Hoc Update Framework  
-[inputtoolbar](https://github.com/brandonhamilton/inputtoolbar): Message-like Input View  
-[Mantle](https://github.com/github/Mantle): Simpler Model Layer
-[MBProgressHUD](https://github.com/jdg/MBProgressHUD): HUD Indicator View  
-[mogenerator](http://rentzsch.github.com/mogenerator): Make CoreData Easier  
-[NUI](https://github.com/tombenner/nui): Style iOS apps with a style sheet  
-[RichContentLabel](https://github.com/cyndibaby905/RichContentLabel): A HTML stylized label with fully image layout support without using UIWebView  
-[QuickDialog](http://escoz.com/open-source/quickdialog): Useful UI Elements, with JSON Builder  
-[RestKit](http://restkit.org): RESTful Client Library  
-[Sequencer](https://github.com/berzniz/Sequencer):An iOS library for asynchronous flow control.  
-[STTweetLabel](https://github.com/SebastienThiebaud/STTweetLabel): A custom UILabel view controller for iOS with certain words tappable like Twitter (#Hashtag, @People and http://www.link.com/page)  
-[THObserversAndBinders](https://github.com/th-in-gs/THObserversAndBinders.git): Easy, lightweight, object-based key-value observing (KVO) and key-value binding (KVB) for iOS and Mac OS X  
-[TICoreDataSync](https://github.com/nothirst/TICoreDataSync): Automatic synchronization for Core Data Apps, between any combination of Mac OS X and iOS: Mac to iPhone to iPad to iPod touch and back again  
-[TITokenField](https://github.com/artgillespie/TITokenField): An iOS version of the NSTokenField (See To: field in Mail and Messages)  
 
-**Others**
-
-[AutoresizeMask-for-Xcode](https://github.com/garnett/AutoresizeMask-for-Xcode): Simple xCode plugin to visualize view autoresizing if it's set from code  
-[Dash Plugin for Xcode](https://github.com/omz/Dash-Plugin-for-Xcode): Use Dash Instead of Xcode's Own Documentation Viewer  
-[iOS6 Fonts](http://www.ios6-fonts.com): iOS 6 Fonts List  
-[UIKit-Artwork-Extractor](https://github.com/0xced/UIKit-Artwork-Extractor): Extract UIKit artwork and emoji symbols into png files, generate glossy buttons png files  
+### Examples
+- [AddressBookSpy](https://github.com/jfahrenkrug/AddressBookSpy.git): 
+- [Core-Animation-Fun-House](https://github.com/briancoyner/Core-Animation-Fun-House): 
+- [DynamicCatalog](https://github.com/croath/DynamicCatalog.git): 
+- [idev-recipes](https://github.com/boctor/idev-recipes): 
+- [MOMO](https://github.com/zengchao/MOMO.git): 
+- [NewsReader](https://github.com/cubewang/NewsReader): 
+- [PortalDemo](https://github.com/allenhsu/PortalDemo.git): 
+- [QBAnimationSequence](https://github.com/questbeat/QBAnimationSequence): 
+- [TB_iOS7Transition](https://github.com/ariok/TB_iOS7Transition.git): 
+- [ThatPhoto](https://github.com/Ink/ThatPhoto.git): 
+- [Tweet4China2](https://github.com/tuoxie007/Tweet4China2.git): 
+- [TwProfile](https://github.com/hunk/TwProfile.git): 
+- [UIDynamicExample](https://github.com/xiaodao/UIDynamicExample): 
+- [iOS-gesture-experiment](https://github.com/boyvanamstel/iOS-gesture-experiment): 
+- [iOS7-Sampler](https://github.com/shu223/iOS7-Sampler.git): 
+- [iOS7-day-by-day](https://github.com/ShinobiControls/iOS7-day-by-day.git): 
+- [iOS7Demos](https://github.com/bignerdranch/iOS7Demos.git): 
+- [issue-5-textkit](https://github.com/objcio/issue-5-textkit): 
+- [issue5-view-controller-transitions](https://github.com/objcio/issue5-view-controller-transitions): 
+- [oschina](https://github.com/oschina/iphone-app.git): 
+- [sscatalog](https://github.com/samsoffes/sscatalog.git): 
+- [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary): 
+- [wikish](https://github.com/divisoryang/wikish): 
