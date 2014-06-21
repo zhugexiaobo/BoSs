@@ -28,7 +28,7 @@ tags: iOS
 
 假设 Root.plist 中有一个名为 `bounces` 的布尔值，就在 `SettingsHandler` 中创建存取方法：
 
-```
+```objc
 - (BOOL)bounces {
     return [[NSUserDefaults standardUserDefaults] boolForKey:@"bounces"];
 }
@@ -42,7 +42,7 @@ tags: iOS
 ### 监视和同步
 实时同步 Settings Bundle 中的值，文档中推荐 `NSUserDefaultsDidChangeNotification`，如果要监视特定的键可以用 `KVO`。
 
-```
+```objc
 // 注册 KVO
 NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
 [defaults addObserver:self

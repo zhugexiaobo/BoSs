@@ -40,8 +40,9 @@ ol, ul {
 
 code {
   background-color: #f8f8f8;
-  padding: 2px 5px;
-  border: 1px dashed #e0e0e0; }
+  padding: 1px 2px;
+  border: 1px solid #e0e0e0;
+  border-radius: 2px; }
 
 #header {
   width: 700px;
@@ -136,8 +137,8 @@ nav {
     padding-left: 25px;
     padding-right: 25px;
     border-color: #e0e0e0 !important;
-    font-size: 13px;
-    font-family: Menlo, monospace;
+    font-size: 14px;
+    font-family: Courier, monospace;
     line-height: 1.6;
     display: block;
     overflow: auto; }

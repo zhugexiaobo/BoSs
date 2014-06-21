@@ -55,7 +55,7 @@ ol, ul {
     margin: 2em 0 1em 0;
 }
 
-code { background-color: #f8f8f8; padding: 2px 5px; border: 1px dashed #e0e0e0; }
+code { background-color: #f8f8f8; padding: 1px 2px; border: 1px solid #e0e0e0; border-radius: 2px; }
 
 #header {
     @include page;
@@ -152,8 +152,8 @@ nav {
         padding-left: #{$padding-side}px;
         padding-right: #{$padding-side}px;
         border-color: #e0e0e0 !important;
-        font-size: 13px;
-        font-family: Menlo, monospace;
+        font-size: 14px;
+        font-family: Courier, monospace;
         line-height: 1.6;
         display: block;
         overflow: auto;
