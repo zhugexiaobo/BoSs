@@ -1,14 +1,10 @@
 @charset "UTF-8";
-@import url(http://fonts.googleapis.com/css?family=Overlock);
-@import url(http://fonts.googleapis.com/css?family=Coda);
-@import url(http://fonts.googleapis.com/css?family=Lekton);
-@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
 /*------------------------------------
- * sext-vi
+ * BoSs
  *
  * @author linghua.zhang@me.com
  * @link http://lhzhang.com/
- * @update 2013-11-11
+ * @update 2014-06-21
  *
  * |/ | (~ (~
  * |\.|._)._)
@@ -24,7 +20,7 @@ a {
 
 body {
   font-size: 14px;
-  font-family: "Overlock", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   color: #555555;
   background-color: #f9f9f9; }
 
@@ -48,7 +44,7 @@ code {
   border: 1px dashed #e0e0e0; }
 
 #header {
-  width: 680px;
+  width: 700px;
   margin: 0 auto;
   margin: 5em auto 4em auto;
   text-align: center; }
@@ -60,10 +56,10 @@ code {
   #header h1 {
     display: block;
     font-size: 43px;
-    font-family: "Coda", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
+    font-family: "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
 
 nav {
-  //width: 680px;
+  //width: 700px;
   margin: 0 auto;
   padding: 1px 0;
   text-align: right;
@@ -74,7 +70,7 @@ nav {
     display: block;
     margin: 1em 0; }
   nav a {
-    font-family: "Coda", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    font-family: "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
     font-size: 1.25em;
     text-transform: uppercase;
     color: #afafaf; }
@@ -82,7 +78,7 @@ nav {
     color: #333333; }
 
 #content {
-  width: 680px;
+  width: 700px;
   margin: 0 auto;
   font-size: 1.1em;
   line-height: 1.7em; }
@@ -175,7 +171,7 @@ nav {
     text-align: center;
     margin: 2em 0; }
     #content #page_nav a {
-      font-family: "Coda", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      font-family: "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
       font-size: .8em;
       padding: 0.25em 1em;
       color: #a0a0a0;
@@ -214,7 +210,7 @@ hr {
   border-bottom: 1px dashed #f9f9f9; }
 
 footer {
-  width: 680px;
+  width: 700px;
   margin: 0 auto;
   display: block;
   font-family: "Balthazar";
