@@ -41,6 +41,8 @@ layout: page
 
 ### 工作经历
 
+- **杭州阔知网络科技有限公司** —— iOS 开发工程师, 2014.05~
+
 - **江苏趣点网络科技有限公司** —— iOS 开发工程师, 2012.10~2014.01
 
   - 独立架构、开发和部署 iOS 应用
@@ -50,6 +52,8 @@ layout: page
 ------
 
 ### 项目经历
+
+- **[阔知学堂](https://itunes.apple.com/cn/app/kuo-zhi-xue-tang/id887301045?mt=8)** —— Edusoho iOS 客户端。
 
 - **[趣点-阅读线索](https://itunes.apple.com/cn/app/qu-dian-yue-du-xian-suo/id696517754?mt=8)** —— 趣点 iOS 客户端。基于 RESTful API 的标准 MVC 架构。
 
